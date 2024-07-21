@@ -1,7 +1,7 @@
 ---
 tags:
   - Nota/Permanente
-Nota índice:
+Pertenece a:
 ---
 
 ## Contexto

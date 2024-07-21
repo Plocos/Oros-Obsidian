@@ -4,7 +4,7 @@ Tipo:
 Año: 
 tags:
   - "#Nota/Referencia"
-Nota índice: []
+Pertenece a: []
 Enlace:
 ---
 

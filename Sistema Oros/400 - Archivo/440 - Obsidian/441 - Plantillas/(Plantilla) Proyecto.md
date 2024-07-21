@@ -1,10 +1,8 @@
 ---
-
 kanban-plugin: board
 tags:
   - "#Proyecto"
-Nota índice: 
-
+Pertenece a:
 ---
 
 ## 📦 En cola

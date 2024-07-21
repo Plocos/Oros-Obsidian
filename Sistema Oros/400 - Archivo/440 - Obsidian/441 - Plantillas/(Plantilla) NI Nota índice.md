@@ -1,7 +1,7 @@
 ---
 tags:
   - Nota/Índice
-Nota índice:
+Pertenece a:
 ---
 
 > [!Cajón de notas índice]+

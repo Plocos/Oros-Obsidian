@@ -1,16 +1,14 @@
 ---
 Autor: 
 Tipo: 
+Año: 
 tags:
-  - "#Nota/Literaria"
+  - "#Nota/Referencia"
 Pertenece a: 
-Nota referencia:
+Enlace: https://app.clipchamp.com
 ---
-
 
 
 
 ###### Notas relacionadas:
 - 
-
-

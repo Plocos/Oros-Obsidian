@@ -5,7 +5,7 @@ Tipo: Libro
 Año: "{{publishDate}}"
 tags:
   - "#Nota/Referencia"
-Nota índice:
+Pertenece a:
   - "[[NI Lectura]]"
 Portada:
   - "{{coverUrl}}"
