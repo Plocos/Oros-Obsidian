@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Año": "number",
+    "Nota referencia": "multitext",
+    "Enlace": "text",
+    "Nota índice": "multitext",
+    "Proyecto": "multitext",
+    "Estado": "checkbox",
+    "Terminado": "checkbox",
+    "Publicado": "number",
+    "Tipo": "text"
+  }
+}

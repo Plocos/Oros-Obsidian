@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "showRibbon": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "100 - Bandeja de entrada",
+  "attachmentFolderPath": "400 - Archivo/430 - Archivos externos",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true
+}

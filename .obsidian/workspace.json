@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "d8c1266056488fe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b3e2e85aa2eeac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ac395657a97050f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f52b5b1d6ca65ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "756031e7dae7f6c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03a59f0757d9d64b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8703442954f7e8ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05acfee6ff808784",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"Nota índice\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "445bdda2a5fa46b4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012119,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "b946c67d5d0edf8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b15e9b371cc91011",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.51103591918945
+  },
+  "right": {
+    "id": "eb566b3b3938dd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f5c145ff7e8a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a43703272472e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f20e1de913538d22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fb4e587b084c73e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "400 - Archivo/410 - Diario/23-07-2024.md"
+              }
+            }
+          },
+          {
+            "id": "913d6658bee7a995",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": true,
+      "graph:Abrir vista gráfica": false,
+      "templates:Insertar plantilla": true,
+      "command-palette:Abrir paleta de comandos": true,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "03a59f0757d9d64b",
+  "lastOpenFiles": [
+    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NP Nota permanente.md",
+    "400 - Archivo/410 - Diario/23-07-2024.md",
+    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NL Nota literaria.md",
+    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NI Nota índice.md",
+    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Proyecto.md",
+    "400 - Archivo/410 - Diario/20-07-2024.md",
+    "400 - Archivo/410 - Diario/14-07-2024.md",
+    "400 - Archivo/410 - Diario/21-07-2024.md",
+    "400 - Archivo/410 - Diario/19-07-2024.md",
+    "400 - Archivo/410 - Diario/15-07-2024.md",
+    "300 - Zettelkasten/340 - Notas de referencia/NR Editor de video Clipchamp.md",
+    "Inicio.md",
+    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Zettelkasten.md",
+    "400 - Archivo/440 - Obsidian/442 - Guía/Presentación Obsidian.md",
+    "400 - Archivo/440 - Obsidian/442 - Guía/+ Guía de Obsidian.md",
+    "300 - Zettelkasten/320 - Notas permanentes/+ Notas permanentes.md",
+    "300 - Zettelkasten/310 - Notas índice/NI Lectura.md",
+    "300 - Zettelkasten/330 - Notas literarias/NL pueba 2.md",
+    "300 - Zettelkasten/330 - Notas literarias/NL prueba.md",
+    "300 - Zettelkasten/310 - Notas índice/+ Notas índice.md",
+    "200 - Proyectos/+ Kanban proyectos.md",
+    "100 - Bandeja de entrada/+ Kanban tareas.md",
+    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Regalo.md",
+    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Lenguaje Markdown.md",
+    "400 - Archivo/450 - Canvas/Sin nombre",
+    "400 - Archivo/430 - Archivos externos/¿Carpetas, enlaces o etiquetas.jpg",
+    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Preguntas.md",
+    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Complementos del sistema.md",
+    "400 - Archivo/450 - Canvas/Sin título.canvas",
+    "400 - Archivo/420 - Biblioteca/Decídete (Resumen).pdf",
+    "400 - Archivo/420 - Biblioteca/Poesía",
+    "400 - Archivo/420 - Biblioteca/Novela",
+    "400 - Archivo/420 - Biblioteca/Resumen Decídete.pdf",
+    "400 - Archivo/420 - Biblioteca/100 años de soledad.pdf",
+    "400 - Archivo/Sin nombre",
+    "400 - Archivo/430 - Archivos externos/Enlaces.jpg",
+    "400 - Archivo/430 - Archivos externos/Imagen nota referencia.png",
+    "400 - Archivo/420 - Biblioteca/Informe",
+    "400 - Archivo/420 - Biblioteca/Poesías",
+    "400 - Archivo/420 - Biblioteca/Novelas",
+    "400 - Archivo/430 - Archivos externos/Pasted image 20240711115949.png",
+    "400 - Archivo/430 - Archivos externos/Pasted image 20240711115907.png",
+    "400 - Archivo/430 - Archivos externos/Logotipo completo OROS.png",
+    "400 - Archivo/430 - Archivos externos/Logo OROS.png",
+    "400 - Archivo/430 - Archivos externos/Lenguaje Markdown.jpg",
+    "400 - Archivo/430 - Archivos externos/Complementos.jpg",
+    "400 - Archivo/430 - Archivos externos/Archivo.jpg",
+    "400 - Archivo/440 - Obsidian/442 - Guía/Guía rápida de uso.canvas",
+    "100 - Bandeja de entrada/Sin título.canvas",
+    "300 - Zettelkasten/310 - Notas índice/NI CHULA.canvas",
+    "400 - Archivo/440 - Obsidian/Inicio CHULO.canvas"
+  ]
+}
