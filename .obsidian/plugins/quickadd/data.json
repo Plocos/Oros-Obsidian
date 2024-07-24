@@ -206,6 +206,12 @@
             "openFile": false,
             "openFileInMode": "default"
           }
+        },
+        {
+          "name": "Kanban: View as board",
+          "type": "Obsidian",
+          "id": "5eb9fb89-398d-4707-8dec-1a35a797fcae",
+          "commandId": "obsidian-kanban:view-board"
         }
       ],
       "runOnStartup": false
@@ -253,6 +259,12 @@
             "openFile": true,
             "openFileInMode": "preview"
           }
+        },
+        {
+          "name": "Kanban: View as board",
+          "type": "Obsidian",
+          "id": "60a56a43-9c54-4009-b2ac-91be9aa961c1",
+          "commandId": "obsidian-kanban:view-board"
         }
       ],
       "runOnStartup": false

@@ -13,7 +13,20 @@
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [],
+  "folder_templates": [
+    {
+      "folder": "100 - Bandeja de entrada/110 - Tareas",
+      "template": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Acción.md"
+    },
+    {
+      "folder": "200 - Proyectos",
+      "template": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Proyecto.md"
+    },
+    {
+      "folder": "200 - Proyectos/210 - Acciones",
+      "template": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Acción.md"
+    }
+  ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [],

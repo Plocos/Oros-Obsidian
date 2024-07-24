@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23b3e2e85aa2eeac",
+        "id": "f8d875d778544bec",
         "type": "tabs",
         "children": [
           {
-            "id": "9ac395657a97050f",
+            "id": "1d7579f296c055d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
-                "mode": "source",
+                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -74,7 +74,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
+                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
+                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "400 - Archivo/410 - Diario/23-07-2024.md",
+                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "400 - Archivo/410 - Diario/23-07-2024.md"
+                "file": "400 - Archivo/410 - Diario/24-07-2024.md"
               }
             }
           },
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +205,21 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "03a59f0757d9d64b",
+  "active": "1d7579f296c055d5",
   "lastOpenFiles": [
-    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NP Nota permanente.md",
+    "100 - Bandeja de entrada/25-07-2024.md",
+    "400 - Archivo/410 - Diario/24-07-2024.md",
+    "200 - Proyectos/+ Kanban proyectos.md",
+    "100 - Bandeja de entrada/= yiyi.md",
+    "100 - Bandeja de entrada/110 - Tareas",
+    "200 - Proyectos/210 - Acciones",
+    "200 - Proyectos/= yiyi.md",
+    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NR Nota de referencia.md",
+    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Libro.md",
+    "100 - Bandeja de entrada/+ Kanban tareas.md",
+    "100 - Bandeja de entrada/= asdf.md",
     "400 - Archivo/410 - Diario/23-07-2024.md",
+    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NP Nota permanente.md",
     "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NL Nota literaria.md",
     "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NI Nota índice.md",
     "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Proyecto.md",
@@ -223,17 +235,8 @@
     "400 - Archivo/440 - Obsidian/442 - Guía/+ Guía de Obsidian.md",
     "300 - Zettelkasten/320 - Notas permanentes/+ Notas permanentes.md",
     "300 - Zettelkasten/310 - Notas índice/NI Lectura.md",
-    "300 - Zettelkasten/330 - Notas literarias/NL pueba 2.md",
-    "300 - Zettelkasten/330 - Notas literarias/NL prueba.md",
-    "300 - Zettelkasten/310 - Notas índice/+ Notas índice.md",
-    "200 - Proyectos/+ Kanban proyectos.md",
-    "100 - Bandeja de entrada/+ Kanban tareas.md",
-    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Regalo.md",
-    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Lenguaje Markdown.md",
     "400 - Archivo/450 - Canvas/Sin nombre",
     "400 - Archivo/430 - Archivos externos/¿Carpetas, enlaces o etiquetas.jpg",
-    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Preguntas.md",
-    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Complementos del sistema.md",
     "400 - Archivo/450 - Canvas/Sin título.canvas",
     "400 - Archivo/420 - Biblioteca/Decídete (Resumen).pdf",
     "400 - Archivo/420 - Biblioteca/Poesía",
@@ -244,8 +247,6 @@
     "400 - Archivo/430 - Archivos externos/Enlaces.jpg",
     "400 - Archivo/430 - Archivos externos/Imagen nota referencia.png",
     "400 - Archivo/420 - Biblioteca/Informe",
-    "400 - Archivo/420 - Biblioteca/Poesías",
-    "400 - Archivo/420 - Biblioteca/Novelas",
     "400 - Archivo/430 - Archivos externos/Pasted image 20240711115949.png",
     "400 - Archivo/430 - Archivos externos/Pasted image 20240711115907.png",
     "400 - Archivo/430 - Archivos externos/Logotipo completo OROS.png",
