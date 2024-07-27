@@ -4,9 +4,7 @@ tags:
 Pertenece a:
 ---
 
-## Contexto
-
-
+## Propósito de la nota
 
 
 ###### Notas relacionadas:

@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## 💭 Idea
 
+- [ ] [[= yiyi]]
 
 
 ## ⏩ Activo
