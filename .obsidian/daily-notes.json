@@ -1,6 +1,6 @@
 {
   "format": "DD-MM-YYYY",
-  "template": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) ND Nota diaria",
-  "autorun": true,
+  "template": "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) ND Nota diaria",
+  "autorun": false,
   "folder": "400 - Archivo/410 - Diario"
 }

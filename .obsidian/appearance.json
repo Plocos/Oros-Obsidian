@@ -1,8 +1,11 @@
 {
-  "accentColor": "#b18859",
-  "showViewHeader": true,
-  "theme": "obsidian",
   "cssTheme": "Oros Theme",
-  "interfaceFontFamily": "",
-  "baseFontSize": 16
+  "accentColor": "#b18859",
+  "enabledCssSnippets": [
+    "InicioMini",
+    "ListaTareas",
+    "RemoveHeader",
+    "Tables"
+  ],
+  "theme": "obsidian"
 }

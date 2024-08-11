@@ -10,5 +10,8 @@
   "chem",
   "highlightr-plugin",
   "obsidian-latex-suite",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-banners",
+  "obsidian-style-settings",
+  "obsidian-meta-bind-plugin"
 ]

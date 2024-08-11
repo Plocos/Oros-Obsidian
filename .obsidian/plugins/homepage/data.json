@@ -3,13 +3,13 @@
   "homepages": {
     "Main Homepage": {
       "value": "Inicio",
-      "kind": "File",
+      "kind": "Workspace",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
       "revertView": true,
-      "openWhenEmpty": true,
+      "openWhenEmpty": false,
       "refreshDataview": true,
       "autoCreate": false,
       "autoScroll": false,

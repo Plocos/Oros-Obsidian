@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "400 - Archivo/440 - Obsidian/441 - Plantillas",
+  "templates_folder": "400 - Archivo/430 - Obsidian/431 - Plantillas",
   "templates_pairs": [
     [
       "",
@@ -16,15 +16,11 @@
   "folder_templates": [
     {
       "folder": "100 - Bandeja de entrada/110 - Tareas",
-      "template": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Acción.md"
+      "template": "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) Acción.md"
     },
     {
       "folder": "200 - Proyectos",
-      "template": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Proyecto.md"
-    },
-    {
-      "folder": "200 - Proyectos/210 - Acciones",
-      "template": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Acción.md"
+      "template": "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) Proyecto.md"
     }
   ],
   "syntax_highlighting": true,

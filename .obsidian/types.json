@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Año": "number",
+    "Año": "date",
     "Nota referencia": "multitext",
     "Enlace": "text",
     "Nota índice": "multitext",
@@ -11,6 +11,9 @@
     "Estado": "checkbox",
     "Terminado": "checkbox",
     "Publicado": "number",
-    "Tipo": "text"
+    "Tipo": "text",
+    "Fecha": "date",
+    "Tag": "text",
+    "Pertenece a": "multitext"
   }
 }

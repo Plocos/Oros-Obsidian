@@ -2,78 +2,18 @@
   "choices": [
     {
       "id": "48567674-05dc-4689-bbc7-f236d7282327",
-      "name": "NL Nota literaria",
+      "name": "N Nueva Nota",
       "type": "Template",
       "command": true,
-      "templatePath": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NL Nota literaria.md",
+      "templatePath": "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) N Nota.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "NL {{value}}"
+        "format": "N {{value}}"
       },
       "folder": {
         "enabled": true,
         "folders": [
-          "300 - Zettelkasten/330 - Notas literarias"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "12659e3c-70c1-4901-834a-890ff2630429",
-      "name": "NP Nota permanente",
-      "type": "Template",
-      "command": true,
-      "templatePath": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NP Nota permanente.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "NP {{VALUE}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "300 - Zettelkasten/320 - Notas permanentes"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "64b4e5f8-8f5b-464b-ae89-18b45a7a0d9e",
-      "name": "NR Nota de referencia",
-      "type": "Template",
-      "command": true,
-      "templatePath": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NR Nota de referencia.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "NR {{VALUE}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "300 - Zettelkasten/340 - Notas de referencia"
+          "300 - Recursos/320 - Notas"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -92,18 +32,18 @@
     },
     {
       "id": "699bd0f9-f89a-4f62-8d62-c860c5dec890",
-      "name": "NI Nota índice",
+      "name": "C Nueva Categoría",
       "type": "Template",
       "command": true,
-      "templatePath": "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NI Nota índice.md",
+      "templatePath": "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) C Categoría.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "NI {{value}}"
+        "format": "C {{value}}"
       },
       "folder": {
         "enabled": true,
         "folders": [
-          "300 - Zettelkasten/310 - Notas índice"
+          "300 - Recursos/310 - Categorías"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -129,7 +69,7 @@
     },
     {
       "id": "aba4c414-b827-4fbd-b5ed-e1eb2d448ad2",
-      "name": "NE Entrada",
+      "name": "E Entrada",
       "type": "Macro",
       "command": true,
       "macroId": "eb2187af-42af-4d57-aac7-8be0160e0208"
@@ -164,7 +104,7 @@
       "runOnStartup": false
     },
     {
-      "name": "NE Entrada",
+      "name": "E Entrada",
       "id": "eb2187af-42af-4d57-aac7-8be0160e0208",
       "commands": [
         {
@@ -239,7 +179,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "[[= {{value}}]]"
+              "format": "[[P {{value}}]]"
             },
             "insertAfter": {
               "enabled": true,
@@ -285,7 +225,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "400 - Archivo/440 - Obsidian/441 - Plantillas",
+  "templateFolderPath": "400 - Archivo/430 - Obsidian/431 - Plantillas",
   "announceUpdates": false,
   "version": "1.10.0",
   "disableOnlineFeatures": true,

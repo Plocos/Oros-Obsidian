@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"73eb29a94ebe79e0","type":"text","text":"Guía rápida de uso","x":-140,"y":-340,"width":213,"height":60,"color":"3"},
+		{"id":"8d870d0e417e56cc","type":"text","text":"Tipos de nota - Jerarquía","x":-564,"y":-154,"width":250,"height":60,"color":"4"},
+		{"id":"8756947d43a6ebea","type":"text","text":"Atajos de teclado","x":-158,"y":-154,"width":250,"height":60,"color":"6"},
+		{"id":"c185edb87a40a9c3","type":"text","text":"Funcionalidades extra","x":219,"y":-154,"width":250,"height":60,"color":"2"},
+		{"id":"19b0e29c17a2bd77","type":"text","text":"Crear nota -> **Ctrl + N** ([[Quickadd]])","x":-158,"y":-40,"width":250,"height":60,"color":"6"},
+		{"id":"5ac3eaecc0472094","type":"text","text":"Alternar modo edición -> **Ctrl + E**","x":-158,"y":80,"width":250,"height":60,"color":"6"},
+		{"id":"2fd9a14da9dba93d","type":"text","text":"Resaltar texto -> **Ctrl + D** ([[Highlightr]])","x":-158,"y":210,"width":250,"height":60,"color":"6"},
+		{"id":"7df904cc276cd74e","type":"text","text":"Inicio -> Icono casa en la columna izquierda","x":219,"y":-43,"width":250,"height":60,"color":"2"},
+		{"id":"8797de2a5d1c63ba","type":"text","text":"Calendario -> Icono calendario en la barra superior","x":219,"y":210,"width":250,"height":100,"color":"2"},
+		{"id":"0dd5d8745fd03380","type":"text","text":"Nota diaria -> Icono calendario en la columna izquierda","x":219,"y":60,"width":250,"height":100,"color":"2"},
+		{"id":"f0a4c2fccf4c0343","type":"text","text":"[[320 - Notas]]","x":-885,"y":80,"width":250,"height":60,"color":"4"},
+		{"id":"7b0a3d36e84cc365","type":"text","text":"[[310 - Categorías]]","x":-689,"y":-40,"width":250,"height":60,"color":"4"},
+		{"id":"3c4d065955563754","type":"text","text":"[[340 - Notas de referencia]]","x":-689,"y":180,"width":250,"height":60,"color":"4"},
+		{"id":"0dcd7e2c1fdf1973","type":"text","text":"[[330 - Canvas]]","x":-515,"y":280,"width":250,"height":60,"color":"4"},
+		{"id":"8b4bba994eea28ae","type":"text","text":"[[Kanban proyectos]]","x":-485,"y":80,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"06bdc99df076d166","fromNode":"73eb29a94ebe79e0","fromSide":"bottom","toNode":"8d870d0e417e56cc","toSide":"top"},
+		{"id":"3c051d984037952d","fromNode":"8d870d0e417e56cc","fromSide":"bottom","toNode":"7b0a3d36e84cc365","toSide":"top"},
+		{"id":"b45fbbf2fec715c2","fromNode":"7b0a3d36e84cc365","fromSide":"bottom","toNode":"f0a4c2fccf4c0343","toSide":"top"},
+		{"id":"8c6c67aadea3523d","fromNode":"7b0a3d36e84cc365","fromSide":"bottom","toNode":"3c4d065955563754","toSide":"top"},
+		{"id":"cd0798a627f701d8","fromNode":"f0a4c2fccf4c0343","fromSide":"bottom","toNode":"3c4d065955563754","toSide":"left"},
+		{"id":"f0918cf7e7d78607","fromNode":"7b0a3d36e84cc365","fromSide":"bottom","toNode":"0dcd7e2c1fdf1973","toSide":"top"},
+		{"id":"7b57a1ce071c4d62","fromNode":"3c4d065955563754","fromSide":"bottom","toNode":"0dcd7e2c1fdf1973","toSide":"left"},
+		{"id":"a4a3973c3222a848","fromNode":"73eb29a94ebe79e0","fromSide":"bottom","toNode":"8756947d43a6ebea","toSide":"top"},
+		{"id":"9aaa5994994710fc","fromNode":"7b0a3d36e84cc365","fromSide":"bottom","toNode":"8b4bba994eea28ae","toSide":"top"},
+		{"id":"d50600e77062ae00","fromNode":"73eb29a94ebe79e0","fromSide":"bottom","toNode":"c185edb87a40a9c3","toSide":"top"},
+		{"id":"72a9ab6ed3f10ed4","fromNode":"8756947d43a6ebea","fromSide":"bottom","toNode":"19b0e29c17a2bd77","toSide":"top"},
+		{"id":"accd7bb2686c78fc","fromNode":"19b0e29c17a2bd77","fromSide":"bottom","toNode":"5ac3eaecc0472094","toSide":"top"},
+		{"id":"b8ce1e6d70e5afe8","fromNode":"5ac3eaecc0472094","fromSide":"bottom","toNode":"2fd9a14da9dba93d","toSide":"top"},
+		{"id":"3ea1ecb2e702eea9","fromNode":"c185edb87a40a9c3","fromSide":"bottom","toNode":"7df904cc276cd74e","toSide":"top"},
+		{"id":"9dc28fc1e8764f06","fromNode":"7df904cc276cd74e","fromSide":"bottom","toNode":"0dd5d8745fd03380","toSide":"top"},
+		{"id":"73cf0f4e78335491","fromNode":"0dd5d8745fd03380","fromSide":"bottom","toNode":"8797de2a5d1c63ba","toSide":"top"}
+	]
+}

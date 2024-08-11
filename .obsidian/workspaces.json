@@ -1,0 +1,224 @@
+{
+  "workspaces": {
+    "Inicio": {
+      "main": {
+        "id": "029628371942e1ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "84181fbce707fdf4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8853c38e755f9471",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Inicio.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "36b846d6c40d7259",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbc5c70c622a7123",
+            "type": "tabs",
+            "dimension": 63.827655310621246,
+            "children": [
+              {
+                "id": "ffd602b4e8a90a50",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0b512a139ff206e4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c38e045ec8557214",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "6d2954d7496c0f84",
+            "type": "tabs",
+            "dimension": 36.172344689378754,
+            "children": [
+              {
+                "id": "861a8e0b187ebdda",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 - Archivo/430 - Obsidian/Inicio Mini.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "771bc596cdab28f7",
+        "type": "split",
+        "children": [
+          {
+            "id": "9bf654524d5f5b48",
+            "type": "tabs",
+            "dimension": 33.46153846153846,
+            "children": [
+              {
+                "id": "ef8b14ef355196fa",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "638b5c8b21abe059",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "137bbe08b9d96aee",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "1f45a6198c7266cf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md"
+                  }
+                }
+              },
+              {
+                "id": "7e0083112aa38a62",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "a9bb576e9ef41c29",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "20a2c10d568584a6",
+            "type": "tabs",
+            "dimension": 66.53846153846153,
+            "children": [
+              {
+                "id": "7b4e790324a5e6cb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 368.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Abrir selector rápido": false,
+          "graph:Abrir vista gráfica": false,
+          "canvas:Crear nuevo lienzo": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "obsidian-kanban:Create new board": false,
+          "homepage:Open homepage": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false
+        }
+      },
+      "active": "7b4e790324a5e6cb",
+      "mtime": "2024-08-08T13:57:13+02:00"
+    }
+  },
+  "active": "Inicio"
+}

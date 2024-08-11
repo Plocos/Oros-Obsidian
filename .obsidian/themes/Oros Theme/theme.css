@@ -1,3 +1,7 @@
+:root {
+	--accent:;
+}
+
 @font-face {
   font-family: 'Atkinson Hyperlegible';
   src: url('/fonts/Atkinson-Hyperlegible-Regular-102.ttf') format("ttf");
@@ -10,12 +14,14 @@
   --accent-h: var(--omicron-theme-accent-color-h);
   --accent-s: var(--omicron-theme-accent-color-s);
   --accent-l: var(--omicron-theme-accent-color-l);
-  --omicron-theme-base-color-h: 204;
-  --omicron-theme-base-color-s: 6%;
-  --omicron-theme-base-color-l: 17%;
-  --theme-base-color-h: var(--omicron-theme-base-color-h);
-  --theme-base-color-s: var(--omicron-theme-base-color-s);
-  --theme-base-color-l: var(--omicron-theme-base-color-l);
+  
+  --oros-light-theme-base-color-h: 0;
+  --oros-light-theme-base-color-s: 0%;
+  --oros-light-theme-base-color-l: 13%;
+  --theme-base-color-h: var(--oros-light-theme-base-color-h);
+  --theme-base-color-s: var(--oros-light-theme-base-color-s);
+  --theme-base-color-l: var(--oros-light-theme-base-color-l);
+  
   --color-base-200: hsl(var(--theme-base-color-h), var(--theme-base-color-s), calc(var(--theme-base-color-l) - 100%));
   --color-base-195: hsl(var(--theme-base-color-h), var(--theme-base-color-s), calc(var(--theme-base-color-l) - 95%));
   --color-base-190: hsl(var(--theme-base-color-h), var(--theme-base-color-s), calc(var(--theme-base-color-l) - 90%));
@@ -59,22 +65,14 @@
   --color-base-00: hsl(var(--theme-base-color-h), var(--theme-base-color-s), calc(var(--theme-base-color-l) + 100%))
 }
 
-.theme-dark {
-  --omicron-theme-accent-color-h: 41;
-  --omicron-theme-accent-color-s: 88%;
-  --omicron-theme-accent-color-l: 71%;
-  --accent-h: var(--omicron-theme-accent-color-h);
-  --accent-s: var(--omicron-theme-accent-color-s);
-  --accent-l: var(--omicron-theme-accent-color-l);
-  --omicron-theme-base-color-h: 0;
-  --omicron-theme-base-color-s: 0%;
-  --omicron-theme-base-color-l: 13%;
-  /*--omicron-theme-base-color-h: 222;
-  --omicron-theme-base-color-s: 22%;
-  --omicron-theme-base-color-l: 15%;*/
-  --theme-base-color-h: var(--omicron-theme-base-color-h);
-  --theme-base-color-s: var(--omicron-theme-base-color-s);
-  --theme-base-color-l: var(--omicron-theme-base-color-l);
+.theme-dark {	
+  --oros-dark-theme-base-color-h: 0;
+  --oros-dark-theme-base-color-s: 0%;
+  --oros-dark-theme-base-color-l: 13%;
+  --theme-base-color-h: var(--oros-dark-theme-base-color-h);
+  --theme-base-color-s: var(--oros-dark-theme-base-color-s);
+  --theme-base-color-l: var(--oros-dark-theme-base-color-l);
+  
   --color-base-200: hsl(var(--theme-base-color-h), var(--theme-base-color-s), calc(var(--theme-base-color-l) + 100%));
   --color-base-195: hsl(var(--theme-base-color-h), var(--theme-base-color-s), calc(var(--theme-base-color-l) + 95%));
   --color-base-190: hsl(var(--theme-base-color-h), var(--theme-base-color-s), calc(var(--theme-base-color-l) + 90%));
@@ -728,7 +726,7 @@ width: 0px;
 
 .nav-file-tag::before {
   content: '● ';
-  color: #b18859;
+  color: var(--color-accent);
 }
 
 .nav-folder .nav-folder-title-content::before {
@@ -742,3 +740,105 @@ width: 0px;
 .workspace-leaf-content[data-type="file-explorer"] .nav-file .nav-file-title-content::before {
   content: '📄 '
 }
+
+.theme-dark .workspace-leaf-resize-handle {
+  background-color: var(--color-base-90);
+  border-color: var(--color-base-90);
+}
+
+.theme-dark .workspace-ribbon {
+  border-right: var(--divider-width) solid var(--color-base-90);
+}
+
+.oros-table{
+  background-color: red;
+}
+
+body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-horizontal.mod-sidedock.mod-right-split > div:nth-child(4) > div.workspace-tab-header-container {
+	display: none;
+}
+
+.marginTop {
+	margin-top: 10px;
+}
+
+
+/* @plugins
+core:
+- backlink
+- command-palette
+- daily-notes
+- file-explorer
+- file-recovery
+- global-search
+- graph
+- outgoing-link
+- outline
+- page-preview
+- publish
+- random-note
+- starred
+- switcher
+- sync
+- tag-pane
+- word-count
+community:
+- buttons
+- dataview
+- calendar
+- obsidian-charts
+- obsidian-checklist-plugin
+- obsidian-codemirror-options
+- obsidian-dictionary-plugin
+- obsidian-embedded-note-titles
+- obsidian-excalidraw-plugin
+- obsidian-git
+- obsidian-hider
+- obsidian-hover-editor
+- obsidian-kanban
+- obsidian-metatable
+- obsidian-minimal-settings
+- obsidian-outliner
+- obsidian-system-dark-mode
+- obsidian-style-settings
+- quickadd
+- sliding-panes-obsidian
+- todoist-sync-plugin
+*/
+/* @settings
+
+name: Oros Theme
+id: oros-style
+settings:
+    - 
+        id: color-accent
+        title: Accent Color
+        type: variable-color
+        format: hex
+        default: '#B18859'
+		description: "Color de los detalles del tema."
+	- 
+        id: light-theme
+        title: Light theme
+        type: heading
+        level: 3
+    - 
+        id: oros-light-theme-base-color
+        title: Base color
+        type: variable-color
+        format: hsl-split
+        default: '#e0b4b2'
+		description: "Color base del modo claro."
+	- 
+		id: dark-theme
+		title: Dark theme
+		type: heading
+		level: 3
+	- 
+        id: oros-dark-theme-base-color
+        title: Base color
+        type: variable-color
+        format: hsl-split
+        default: '#212121'
+		description: "Color base del modo oscuro."
+*/

@@ -1,0 +1,19 @@
+.workspace > .workspace-split:not(.mod-root) .metadata-container {
+    display: none;
+}
+
+.workspace-tab-header-status-icon, .workspace-tab-header-inner-close-button {
+    display: none;
+}
+
+.markdown-rendered div:has( > :is(p,pre,table,ul,ol)) + div > :is(h1,h2,h3,h4,h5,h6) {
+    margin-top: 0;
+}
+
+body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split > div:nth-child(5) > div.workspace-tab-header-container {
+    display: none;
+}
+
+body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split > div.workspace-tabs.mod-active > div.workspace-tab-container > div > div > div.view-content > div.markdown-reading-view > div, body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split > div:nth-child(5) > div.workspace-tab-container > div > div > div.view-content > div.markdown-reading-view > div{
+    overflow-y: hidden;
+}

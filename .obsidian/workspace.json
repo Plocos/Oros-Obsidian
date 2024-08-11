@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "d8c1266056488fe3",
+    "id": "029628371942e1ad",
     "type": "split",
     "children": [
       {
-        "id": "f8d875d778544bec",
+        "id": "84181fbce707fdf4",
         "type": "tabs",
         "children": [
           {
-            "id": "1d7579f296c055d5",
+            "id": "8853c38e755f9471",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
+                "file": "Inicio.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,15 +25,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f52b5b1d6ca65ce2",
+    "id": "36b846d6c40d7259",
     "type": "split",
     "children": [
       {
-        "id": "756031e7dae7f6c3",
+        "id": "dbc5c70c622a7123",
         "type": "tabs",
+        "dimension": 63.827655310621246,
         "children": [
           {
-            "id": "03a59f0757d9d64b",
+            "id": "ffd602b4e8a90a50",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,23 +44,12 @@
             }
           },
           {
-            "id": "8703442954f7e8ed",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "05acfee6ff808784",
+            "id": "0b512a139ff206e4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Nota índice\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,50 +59,7 @@
             }
           },
           {
-            "id": "445bdda2a5fa46b4",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873693012119,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "b946c67d5d0edf8e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b15e9b371cc91011",
+            "id": "c38e045ec8557214",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,26 +67,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "6d2954d7496c0f84",
+        "type": "tabs",
+        "dimension": 36.172344689378754,
+        "children": [
+          {
+            "id": "861a8e0b187ebdda",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Archivo/430 - Obsidian/Inicio Mini.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 236.51103591918945
+    "width": 300
   },
   "right": {
-    "id": "eb566b3b3938dd71",
+    "id": "771bc596cdab28f7",
     "type": "split",
     "children": [
       {
-        "id": "17f5c145ff7e8a94",
+        "id": "9bf654524d5f5b48",
         "type": "tabs",
+        "dimension": 33.46153846153846,
         "children": [
           {
-            "id": "79a43703272472e8",
+            "id": "ef8b14ef355196fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
+                "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,29 +120,40 @@
             }
           },
           {
-            "id": "f20e1de913538d22",
+            "id": "638b5c8b21abe059",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "400 - Archivo/410 - Diario/24-07-2024.md",
+                "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2fb4e587b084c73e",
+            "id": "137bbe08b9d96aee",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-                "file": "400 - Archivo/410 - Diario/24-07-2024.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "913d6658bee7a995",
+            "id": "1f45a6198c7266cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md"
+              }
+            }
+          },
+          {
+            "id": "7e0083112aa38a62",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,80 +163,114 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "a9bb576e9ef41c29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "20a2c10d568584a6",
+        "type": "tabs",
+        "dimension": 66.53846153846153,
+        "children": [
+          {
+            "id": "7b4e790324a5e6cb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Archivo/430 - Obsidian/Lista Tareas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir selector rápido": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": true,
       "graph:Abrir vista gráfica": false,
-      "templates:Insertar plantilla": true,
-      "command-palette:Abrir paleta de comandos": true,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "1d7579f296c055d5",
+  "active": "7b4e790324a5e6cb",
   "lastOpenFiles": [
-    "100 - Bandeja de entrada/25-07-2024.md",
-    "400 - Archivo/410 - Diario/24-07-2024.md",
-    "200 - Proyectos/+ Kanban proyectos.md",
-    "100 - Bandeja de entrada/= yiyi.md",
-    "100 - Bandeja de entrada/110 - Tareas",
-    "200 - Proyectos/210 - Acciones",
-    "200 - Proyectos/= yiyi.md",
-    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NR Nota de referencia.md",
-    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Libro.md",
-    "100 - Bandeja de entrada/+ Kanban tareas.md",
-    "100 - Bandeja de entrada/= asdf.md",
-    "400 - Archivo/410 - Diario/23-07-2024.md",
-    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NP Nota permanente.md",
-    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NL Nota literaria.md",
-    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) NI Nota índice.md",
-    "400 - Archivo/440 - Obsidian/441 - Plantillas/(Plantilla) Proyecto.md",
-    "400 - Archivo/410 - Diario/20-07-2024.md",
-    "400 - Archivo/410 - Diario/14-07-2024.md",
-    "400 - Archivo/410 - Diario/21-07-2024.md",
-    "400 - Archivo/410 - Diario/19-07-2024.md",
-    "400 - Archivo/410 - Diario/15-07-2024.md",
-    "300 - Zettelkasten/340 - Notas de referencia/NR Editor de video Clipchamp.md",
+    "README.md",
     "Inicio.md",
-    "400 - Archivo/440 - Obsidian/442 - Guía/(Presentación) Zettelkasten.md",
-    "400 - Archivo/440 - Obsidian/442 - Guía/Presentación Obsidian.md",
-    "400 - Archivo/440 - Obsidian/442 - Guía/+ Guía de Obsidian.md",
-    "300 - Zettelkasten/320 - Notas permanentes/+ Notas permanentes.md",
-    "300 - Zettelkasten/310 - Notas índice/NI Lectura.md",
-    "400 - Archivo/450 - Canvas/Sin nombre",
-    "400 - Archivo/430 - Archivos externos/¿Carpetas, enlaces o etiquetas.jpg",
-    "400 - Archivo/450 - Canvas/Sin título.canvas",
-    "400 - Archivo/420 - Biblioteca/Decídete (Resumen).pdf",
-    "400 - Archivo/420 - Biblioteca/Poesía",
-    "400 - Archivo/420 - Biblioteca/Novela",
-    "400 - Archivo/420 - Biblioteca/Resumen Decídete.pdf",
-    "400 - Archivo/420 - Biblioteca/100 años de soledad.pdf",
-    "400 - Archivo/Sin nombre",
-    "400 - Archivo/430 - Archivos externos/Enlaces.jpg",
-    "400 - Archivo/430 - Archivos externos/Imagen nota referencia.png",
-    "400 - Archivo/420 - Biblioteca/Informe",
-    "400 - Archivo/430 - Archivos externos/Pasted image 20240711115949.png",
-    "400 - Archivo/430 - Archivos externos/Pasted image 20240711115907.png",
-    "400 - Archivo/430 - Archivos externos/Logotipo completo OROS.png",
-    "400 - Archivo/430 - Archivos externos/Logo OROS.png",
-    "400 - Archivo/430 - Archivos externos/Lenguaje Markdown.jpg",
-    "400 - Archivo/430 - Archivos externos/Complementos.jpg",
-    "400 - Archivo/430 - Archivos externos/Archivo.jpg",
-    "400 - Archivo/440 - Obsidian/442 - Guía/Guía rápida de uso.canvas",
-    "100 - Bandeja de entrada/Sin título.canvas",
-    "300 - Zettelkasten/310 - Notas índice/NI CHULA.canvas",
-    "400 - Archivo/440 - Obsidian/Inicio CHULO.canvas"
+    "400 - Archivo/430 - Obsidian/Lista Tareas.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/Ejemplos de uso habitual.md",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Función buscar.png",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Creación de una nota.png",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Creación de proyectos.png",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Comenzar un canvas.png",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Acciones de proyecto.png",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Pasted image 20240811115422.png",
+    "400 - Archivo/430 - Obsidian/432 - Guía/+ Guía de Obsidian.md",
+    "400 - Archivo/430 - Obsidian/Inicio Mini.md",
+    "300 - Recursos/310 - Categorías/+ Índice Categorías.md",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) ND Nota diaria.md",
+    "300 - Recursos/330 - Canvas/Sin título.canvas",
+    "400 - Archivo/410 - Diario/11-08-2024.md",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) N Nota.md",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) Proyecto.md",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) Acción.md",
+    "200 - Proyectos/+ Kanban proyectos.md",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) Libro.md",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas/(Plantilla) C Categoría.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/310 - Categorías.md",
+    "400 - Archivo/410 - Diario/09-08-2024.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/330 - Canvas.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/(Presentación) Carpetas, enlaces o etiquetas.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/Presentación Obsidian.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/(Presentación) Regalo.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/(Presentación) Qué no hacer.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/(Presentación) Enlaces.md",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Pasted image 20240811102408.png",
+    "400 - Archivo/430 - Obsidian/432 - Guía/320 - Notas.md",
+    "300 - Recursos/320 - Notas/+ Índice Notas.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía.rar",
+    "400 - Archivo/430 - Obsidian/432 - Guía/300 - Recursos.md",
+    "400 - Archivo/430 - Obsidian/432 - Guía/Guía rápida de uso.canvas",
+    "400 - Archivo/430 - Obsidian/432 - Guía/desktop.ini",
+    "400 - Archivo/430 - Obsidian/432 - Guía",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas/desktop.ini",
+    "400 - Archivo/430 - Obsidian/431 - Plantillas",
+    "400 - Archivo/430 - Obsidian/desktop.ini",
+    "400 - Archivo/430 - Obsidian",
+    "400 - Archivo/420 - Archivos externos/421 - Documentos/desktop.ini",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/desktop.ini",
+    "400 - Archivo/420 - Archivos externos/desktop.ini",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/OROS.png",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Pasted image 20240804195506.png",
+    "400 - Archivo/420 - Archivos externos/422 - Imágenes/Pasted image 20240726235922.png",
+    "300 - Recursos/330 - Canvas/Metodo Plocos Distribución de Clases.canvas",
+    "300 - Recursos/Sin título.canvas",
+    "300 - Recursos/Metodo Plocos Distribución de Clases.canvas",
+    "300 - Recursos/450 - Canvas/Sin título.canvas",
+    "300 - Recursos/450 - Canvas/Metodo Plocos Distribución de Clases.canvas",
+    "450 - Canvas/Sin título.canvas",
+    "450 - Canvas/Metodo Plocos Distribución de Clases.canvas",
+    "400 - Archivo/450 - Canvas/Sin título.canvas"
   ]
 }

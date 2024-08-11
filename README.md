@@ -32,5 +32,4 @@ Actualizar a la versión 2 del sistema es un proceso sencillo, y el tiempo que l
    - Mueve tus notas del diario a 410 - Diario
    - Mueve tus imágenes y documentos a 421 - Documentos y 422 - Imágenes.
    - Los libros de la antigua biblioteca ahora también deben estar en 421 - Documentos. Te recomendamos ademas que uno de los valores del campo "Pertenece a" sea C Lectura.
-   - Puedes borrar el archivo README.
    - Cierra y abre la nueva bóveda.
